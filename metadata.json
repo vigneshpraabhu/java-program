@@ -1,0 +1,7 @@
+{
+  "name": "School Management Portal",
+  "description": "A comprehensive portal for Admins, Teachers, and Students to manage accounts, sign-ins, and attendance tracking through a streamlined approval process.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
